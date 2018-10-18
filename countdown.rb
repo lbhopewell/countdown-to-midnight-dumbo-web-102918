@@ -1,4 +1,13 @@
 #write your code here
 
-def countdown
+def countdown(int)
+while int > 0 
+puts "#{int}"
+int -=1 
+
+end
+
+def countdown_with_sleep
+
+
 end
